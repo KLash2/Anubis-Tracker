@@ -20,7 +20,7 @@ pip install python3
 
 pip install nmap 
 
-git clone https://github.com/FsociteyF/IPT.git 
+git clone https://github.com/KLash2/Anubis.git 
 
 cd Anubis
 
@@ -57,7 +57,7 @@ pip install python3
 
 pip install nmap 
 
-git clone https://github.com/FsociteyF/IPT.git 
+git clone https://github.com/KLash2/Anubis.git 
 
 cd Anubis 
 
