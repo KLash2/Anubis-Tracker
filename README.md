@@ -32,7 +32,7 @@ Any problems, you can contact me at https://klash2.github.io/Senior-KLash/
 
  😊 Good luck.
 
-![tool](anbusi.jpg)
+![tool](anubis.jpg)
 
 
 هذه الاداة لتعقب عنوان الايبي وهي باللغة العربية والانكليزية . 
